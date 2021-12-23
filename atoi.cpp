@@ -18,7 +18,7 @@ int atoi(const char *S){
 }
 
 int main(){
-	char S[] = "123";
+	char S[] = "1234";
 
 	cout << atoi(S);
 	return 0;
